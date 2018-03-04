@@ -1,2 +1,3 @@
-# seasonsofutah
-Seasons of Utah for Linnette Deason
+# Seasons of Utah
+
+A photographic story site for Linnette Deason
